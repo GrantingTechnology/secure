@@ -1,5 +1,5 @@
 [Be a GT collaborator](http://www.grantingtechnology.org/Secure/User/CrudIdentity/580) 
-# GT - Module Secure
+# GT - Module Secure (.net 4.6.2)
 Authentication management module, in between multiples domains, access basic validation of  login adn password, with recovery password and register new account. Simple and objective.
 
 *Advantages of using this module:
