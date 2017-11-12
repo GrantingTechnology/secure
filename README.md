@@ -11,6 +11,8 @@ Register account
 Logins to multiples domains
 Improved user management
 ```
+[Introduction GT Secure](http://www.grantingtechnology.org/publish/GT-Module-Secure-v1.0.0.1/5/517)
+
 [Documentation GT Secure](http://www.grantingtechnology.org/documentation/secure)
 
 [Read the terms of use](http://www.grantingtechnology.org)
